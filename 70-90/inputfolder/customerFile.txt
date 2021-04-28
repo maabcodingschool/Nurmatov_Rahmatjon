@@ -1,7 +1,0 @@
-Id,FirstName,LastName,Address,phoneNumber,Region
-1,Aamir,Shahzad,XZY ADDRESS,999909909,AS
-3,Christy,Smith,Test ADDRESS,888808808,EU
-5,Robert,Ladson,XZY ADDRESS,666606606,NA
-6,Charlos,Adam,Test ADDRESS,555505505,AS
-4,Najaf,Ali,Charlotte NC ADDRESS,777707707,AF
-
