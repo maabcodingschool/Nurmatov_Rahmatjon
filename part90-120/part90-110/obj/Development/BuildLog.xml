@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>part90-110</Name>
+    <LastWriteTime>2021-05-08T15:22:29.851803Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>part91_ How to Download Single File from FTP Server to Local Folder in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-05T07:17:37.1268471Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part92_Upload Multiple Files from Local Folder To FTP Server Folder in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-05T13:51:01.3918818Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part93_ How to Download All the Files from FTP Server Folder to Local Folder.dtsx</Name>
+      <LastWriteTime>2021-05-05T14:12:45.2197059Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part94_ Filter Files by using WildCard in FTP Task in SSIS Package - SSIS Tutorial.dtsx</Name>
+      <LastWriteTime>2021-05-06T09:44:09.7862207Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part95_Delete Specific Files or All Files from FTP Server Folder.dtsx</Name>
+      <LastWriteTime>2021-05-05T16:08:15.9610472Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part96_Download Only Current Day Files from FTP Server by using FTP Task.dtsx</Name>
+      <LastWriteTime>2021-05-05T16:25:25.6684463Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part97_Create A Directory For Each Day and Load Files on FTP Server.dtsx</Name>
+      <LastWriteTime>2021-05-05T17:45:27.0158572Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part98_Get File Names from FTP Server and Save to SQL Server Table in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-05T17:04:00.8808052Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part99_How to Avoid FTP Task Error when No File Found on FTP Server.dtsx</Name>
+      <LastWriteTime>2021-05-05T17:32:56.0910245Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part100_Delete Folder with Files from FTP Server by using Script Task in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-06T09:39:06.9493289Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part101_Download a File from FTP Server and Delete after Download in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-06T10:46:08.9242168Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part102_Sync Local Folder to FTP Server Folder without Upload Existing Files.dtsx</Name>
+      <LastWriteTime>2021-05-06T11:44:09.623154Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part103_Sync FTP Folder to Local Folder without Downloading Existing Files.dtsx</Name>
+      <LastWriteTime>2021-05-06T12:24:57.7019835Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part104_Download a File and Then Rename File on FTP Server by SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-06T14:08:15.8275975Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part105_Move file from One Folder to Another Folder on FTP Server in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-06T14:56:32.8498264Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part106_Create Directory with Date on Local Path  download Files from FTP Server.dtsx</Name>
+      <LastWriteTime>2021-05-06T15:14:01.8532074Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part107_How to Make your FTP Connection Manager Dynamic in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-06T15:31:03.4968895Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part108_How to use Bulk Insert Task in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-06T16:03:00.8091876Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part109_How to use Expression Task to get Month Name in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-06T16:10:57.768775Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part110_Read Source and Destination Path of Files from Excel File Move them.dtsx</Name>
+      <LastWriteTime>2021-05-06T16:50:02.0364148Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part111_SQL Statement Size Limitations in Execute SQL Task  Solution in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-08T11:08:36.8252491Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part112_Execute Multiple Stored Procedures from a Table by using Execute SQL Task.dtsx</Name>
+      <LastWriteTime>2021-05-08T12:31:47.5375404Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part113_Execute SQL Queries From a SQL Server Table in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-08T13:18:23.8692928Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part114_Execute SQL Statements From a Excel File in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-08T14:10:54.2040517Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part115_Read Status Flag From Table Control SSIS Package Flow.dtsx</Name>
+      <LastWriteTime>2021-05-08T14:57:43.0253822Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part116_Insert File Names Record Count in SQL Table after Loading in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-08T15:36:06.4052059Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
