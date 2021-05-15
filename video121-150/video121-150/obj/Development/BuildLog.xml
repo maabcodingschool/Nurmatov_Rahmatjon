@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>video121-150</Name>
+    <LastWriteTime>2021-05-15T13:41:28.5231789Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>part117_LogFile Load time and Record Count.dtsx</Name>
+      <LastWriteTime>2021-05-11T10:57:32.1522803Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part118_Load Multiple Files after File Name Validation against Definition Table.dtsx</Name>
+      <LastWriteTime>2021-05-11T11:43:16.7046208Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part119_Execute SQL Task  Demo in SSIS.dtsx</Name>
+      <LastWriteTime>2021-05-11T13:04:57.3511657Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part120_Load Files from Specific Folder Paths Saved in SQL Table By SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-11T15:09:38.9334981Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part121_Reject Already Loaded Files Load Only New Files to Table in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-11T15:37:25.1502805Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part122_Configure_Execute_SQL_Task_when_Query_Might.dtsx</Name>
+      <LastWriteTime>2021-05-11T23:29:16.5162508Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part123_Get_DeleteUpdate_Record_Count_From_Execute.dtsx</Name>
+      <LastWriteTime>2021-05-12T06:24:20.4419154Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part125_Using Variable in IF Clause in Execute SQL Task in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-12T16:32:01.9741352Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part127_Read Single Cell Value from an Excel File in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-13T13:14:04.37669Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part127_1_Get Execution Time of Multiple Stored Procedures from Execute SQL Task.dtsx</Name>
+      <LastWriteTime>2021-05-13T13:07:09.5762438Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part128_ How to Use Project Level and Package Level Parameters in Script Task.dtsx</Name>
+      <LastWriteTime>2021-05-13T13:31:17.388439Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part129_Use Variables in Script Task in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-13T13:47:39.6208535Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part131_Difference_bw_ReadOnlyVariables_and_ReadWriteVariable.dtsx</Name>
+      <LastWriteTime>2021-05-13T16:24:59.1547968Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part131_1_Delete Top N Rows from Flat File in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-14T16:57:34.8874249Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part132_Change Dot NET FrameWork In SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-14T17:12:34.6169452Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part133_Load Text Files Zip them to Zip File with DateTime  Delete in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-15T10:00:20.7558889Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part134_Extract files from Zip Files Delete Zip Files once UnZiped in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-15T10:00:20.7503584Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part135_Load Zip and Delete Multiple Flat Files in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-15T10:31:11.6412636Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part136_Zip Different Types of Files according to Extension in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-15T11:12:11.7057698Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part137_Zip or Compress Files according to the Name of Files in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-15T11:57:55.6134992Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part138_Get File names from Zip Files and Insert into SQL Server Table.dtsx</Name>
+      <LastWriteTime>2021-05-15T12:10:34.8960805Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part139_Zip Compres Multiple Folders and Delete in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-15T12:34:14.5607262Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>part140_Create Zip file per day by using Date and Add Files to it in SSIS Package.dtsx</Name>
+      <LastWriteTime>2021-05-15T13:41:28.49984Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>

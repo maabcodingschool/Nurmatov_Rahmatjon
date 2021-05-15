@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "video121-150", "video121-150\video121-150.dtproj", "{3384D0E5-39ED-4A74-BA60-9CCD142F1C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3384D0E5-39ED-4A74-BA60-9CCD142F1C09}.Development|Default.ActiveCfg = Development
+		{3384D0E5-39ED-4A74-BA60-9CCD142F1C09}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66852D2D-D996-485D-A979-5F8A489B3243}
+	EndGlobalSection
+EndGlobal
